@@ -1,2 +1,2 @@
 # test
-learning Git
+learning Git to understand about Github
